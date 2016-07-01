@@ -13,48 +13,7 @@
     "CurrentReferences": [],
     "Steps": {
       "__type": "ArtOfTest.Common.Design.ProjectModel.AutomationStepList",
-      "__value": [
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "26a16844-8884-4352-9006-5f2a51f3a7ea",
-            "Description": "New Coded Step",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.CodedStepDescriptor",
-              "__value": {
-                "Code": "            ",
-                "RequiresSilverlight": false,
-                "WaitOnElements": true,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "Pause": 0,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {},
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 1,
-            "Id": "New_CodedStep",
-            "StepState": 1,
-            "ContinueOnFailure": false,
-            "StepImageKey": "Newrpiw40le.awp",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        }
-      ]
+      "__value": []
     },
     "IndependentDescriptors": [],
     "HtmlDescription": "",
@@ -68,10 +27,10 @@
     "UseDefaultWpfAppPath": false,
     "TestAssembly": "TestProject11.dll",
     "TestAssemblyPath": "bin",
-    "TestClass": "TestProject11.New",
+    "TestClass": "",
     "IsManual": false,
     "ResourceFilePath": "New.resx",
-    "HasCodeBehind": true,
+    "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
       "__value": {
