@@ -169,8 +169,8 @@
     "TfsSkipAuthDialog": true,
     "TfsDomain": "",
     "TeamPulseServerUrl": "",
-    "TpUserName": "webu",
-    "TpPassword": "mG0pL/+k6sX9+UCyY5s+CA==",
+    "TpUserName": "",
+    "TpPassword": "",
     "TpUseWindowsAuth": false,
     "TpSkipAuthDialog": false,
     "TpDefaultProjectId": -1,
@@ -219,6 +219,6 @@
     "BugAddAttachment": true,
     "BugAutoSubmit": false,
     "BugDescriptionMask": "{Description}",
-    "SelectedBrowserOption": 3
+    "SelectedBrowserOption": 0
   }
 }
